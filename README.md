@@ -6,7 +6,8 @@ This document provides instructions on how to set up and use Firestore Admin for
 
 Before proceeding, make sure you have the following prerequisites installed and set up:
 
-- Node.js and npm installed on your system.
+- Python installed on your system.
+- Firebase Admin SDK installed.
 - A Firebase project with Firestore enabled.
 
 ## Setup
@@ -14,4 +15,4 @@ Before proceeding, make sure you have the following prerequisites installed and 
 1. **Install Dependencies**: Install the necessary dependencies by running the following command in your project directory:
 
    ```bash
-   npm install express firebase-admin
+   pip install firebase-admin
